@@ -41,4 +41,4 @@ while True:
     
     
     cv2.imshow("UR tatti hand", img)
-    cv2.waitKey(100) 
+    cv2.waitKey(100)

@@ -76,4 +76,4 @@ while True:
     cv2.imshow("Img", img)
     cv2.waitKey(2)
 
-exit = input 
+exit = input
